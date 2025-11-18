@@ -465,20 +465,6 @@ The current models have addressed a few issues but due to time constraints, we h
 
 ---
 
-## References
-
-1. **NSL-KDD Dataset:** Tavallaee, M., Bagheri, E., Lu, W., & Ghorbani, A. A. (2009). "A detailed analysis of the KDD CUP 99 data set." IEEE Symposium on Computational Intelligence for Security and Defense Applications.
-
-2. **PennyLane:** Bergholm, V., et al. (2018). "PennyLane: Automatic differentiation of hybrid quantum-classical computations." arXiv:1811.04968.
-
-3. **Quantum Machine Learning:** Schuld, M., & Petruccione, F. (2021). "Machine Learning with Quantum Computers." Springer.
-
-4. **Variational Quantum Classifiers:** Havlíček, V., et al. (2019). "Supervised learning with quantum-enhanced feature spaces." Nature, 567(7747), 209-212.
-
-5. **Network Intrusion Detection:** Ahmad, Z., et al. (2021). "Network intrusion detection system: A systematic study of machine learning and deep learning approaches." Transactions on Emerging Telecommunications Technologies, 32(1), e4150.
-
----
-
 **Date:** 19th November 2025
 **Hackathon:** Qubit Advanced Level Hackathon  
 **Category:** Advanced - Telecom Network Anomaly Detection using Quantum Neural Networks  
